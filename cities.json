@@ -1,0 +1,2572 @@
+[
+  {
+    "wilayah_id": "2",
+    "name": "ACEH SELATAN",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "269",
+    "name": "ACEH TENGGARA",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "671",
+    "name": "ACEH TIMUR",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "1207",
+    "name": "ACEH TENGAH",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "1492",
+    "name": "ACEH BARAT",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "1824",
+    "name": "ACEH BESAR",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "2452",
+    "name": "PIDIE",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "3205",
+    "name": "ACEH UTARA",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "4086",
+    "name": "SIMEULUE",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "4233",
+    "name": "ACEH SINGKIL",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "4362",
+    "name": "BIREUEN",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "4989",
+    "name": "ACEH BARAT DAYA",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "5138",
+    "name": "GAYO LUES",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "5286",
+    "name": "ACEH JAYA",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "5463",
+    "name": "NAGAN RAYA",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "5694",
+    "name": "ACEH TAMIANG",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "5920",
+    "name": "BENER MERIAH",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "6166",
+    "name": "PIDIE JAYA",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "6397",
+    "name": "KOTA BANDA ACEH",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "6497",
+    "name": "KOTA SABANG",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "6518",
+    "name": "KOTA LHOKSEUMAWE",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "6591",
+    "name": "KOTA LANGSA",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "6648",
+    "name": "KOTA SUBULUSSALAM",
+    "parent": "1"
+  },
+  {
+    "wilayah_id": "6729",
+    "name": "LABUHANBATU SELATAN",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "6789",
+    "name": "LABUHANBATU UTARA",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "6888",
+    "name": "NIAS UTARA",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "7013",
+    "name": "NIAS BARAT",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "7132",
+    "name": "KOTA GUNUNGSITOLI",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "7240",
+    "name": "TAPANULI TENGAH",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "7438",
+    "name": "TAPANULI UTARA",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "7697",
+    "name": "TAPANULI SELATAN",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "7960",
+    "name": "NIAS",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "8094",
+    "name": "LANGKAT",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "8408",
+    "name": "KARO",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "8688",
+    "name": "DELI SERDANG",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "9114",
+    "name": "SIMALUNGUN",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "9497",
+    "name": "ASAHAN",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "9727",
+    "name": "LABUHANBATU",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "9835",
+    "name": "DAIRI",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "10020",
+    "name": "TOBA SAMOSIR",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "10227",
+    "name": "MANDAILING NATAL",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "10646",
+    "name": "NIAS SELATAN",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "11022",
+    "name": "PAKPAK BHARAT",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "11083",
+    "name": "HUMBANG HASUNDUTAN",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "11247",
+    "name": "SAMOSIR",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "11374",
+    "name": "SERDANG BEDAGAI",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "11635",
+    "name": "BATU BARA",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "11743",
+    "name": "KOTA MEDAN",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "11916",
+    "name": "KOTA PEMATANGSIANTAR",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "11978",
+    "name": "KOTA SIBOLGA",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "12000",
+    "name": "KOTA TANJUNG BALAI",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "12038",
+    "name": "KOTA BINJAI",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "12081",
+    "name": "KOTA TEBING TINGGI",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "12122",
+    "name": "KOTA PADANG SIDEMPUAN",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "12208",
+    "name": "PADANG LAWAS UTARA",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "12606",
+    "name": "PADANG LAWAS",
+    "parent": "6728"
+  },
+  {
+    "wilayah_id": "12921",
+    "name": "PESISIR SELATAN",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13010",
+    "name": "SOLOK",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13099",
+    "name": "SIJUNJUNG",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13163",
+    "name": "TANAH DATAR",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13253",
+    "name": "PADANG PARIAMAN",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13317",
+    "name": "AGAM",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13416",
+    "name": "LIMA PULUH KOTA",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13509",
+    "name": "PASAMAN",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13554",
+    "name": "KEPULAUAN MENTAWAI",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13608",
+    "name": "DHARMASRAYA",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13634",
+    "name": "SOLOK SELATAN",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13681",
+    "name": "PASAMAN BARAT",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13712",
+    "name": "KOTA PADANG",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13828",
+    "name": "KOTA SOLOK",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13844",
+    "name": "KOTA SAWAHLUNTO",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13886",
+    "name": "KOTA PADANG PANJANG",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13905",
+    "name": "KOTA BUKITTINGGI",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "13933",
+    "name": "KOTA PAYAKUMBUH",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "14010",
+    "name": "KOTA PARIAMAN",
+    "parent": "12920"
+  },
+  {
+    "wilayah_id": "14087",
+    "name": "KEPULAUAN MERANTI",
+    "parent": "14086"
+  },
+  {
+    "wilayah_id": "14166",
+    "name": "KAMPAR",
+    "parent": "14086"
+  },
+  {
+    "wilayah_id": "14414",
+    "name": "INDRAGIRI HULU",
+    "parent": "14086"
+  },
+  {
+    "wilayah_id": "14630",
+    "name": "BENGKALIS",
+    "parent": "14086"
+  },
+  {
+    "wilayah_id": "14741",
+    "name": "INDRAGIRI HILIR",
+    "parent": "14086"
+  },
+  {
+    "wilayah_id": "14955",
+    "name": "PELALAWAN",
+    "parent": "14086"
+  },
+  {
+    "wilayah_id": "15087",
+    "name": "ROKAN HULU",
+    "parent": "14086"
+  },
+  {
+    "wilayah_id": "15254",
+    "name": "ROKAN HILIR",
+    "parent": "14086"
+  },
+  {
+    "wilayah_id": "15412",
+    "name": "SIAK",
+    "parent": "14086"
+  },
+  {
+    "wilayah_id": "15553",
+    "name": "KUANTAN SINGINGI",
+    "parent": "14086"
+  },
+  {
+    "wilayah_id": "15775",
+    "name": "KOTA PEKANBARU",
+    "parent": "14086"
+  },
+  {
+    "wilayah_id": "15846",
+    "name": "KOTA DUMAI",
+    "parent": "14086"
+  },
+  {
+    "wilayah_id": "15886",
+    "name": "KOTA SUNGAI PENUH",
+    "parent": "15885"
+  },
+  {
+    "wilayah_id": "15961",
+    "name": "KERINCI",
+    "parent": "15885"
+  },
+  {
+    "wilayah_id": "16183",
+    "name": "MERANGIN",
+    "parent": "15885"
+  },
+  {
+    "wilayah_id": "16420",
+    "name": "SAROLANGUN",
+    "parent": "15885"
+  },
+  {
+    "wilayah_id": "16576",
+    "name": "BATANGHARI",
+    "parent": "15885"
+  },
+  {
+    "wilayah_id": "16699",
+    "name": "MUARO JAMBI",
+    "parent": "15885"
+  },
+  {
+    "wilayah_id": "16862",
+    "name": "TANJUNG JABUNG BARAT",
+    "parent": "15885"
+  },
+  {
+    "wilayah_id": "16946",
+    "name": "TANJUNG JABUNG TIMUR",
+    "parent": "15885"
+  },
+  {
+    "wilayah_id": "17051",
+    "name": "BUNGO",
+    "parent": "15885"
+  },
+  {
+    "wilayah_id": "17215",
+    "name": "TEBO",
+    "parent": "15885"
+  },
+  {
+    "wilayah_id": "17333",
+    "name": "KOTA JAMBI",
+    "parent": "15885"
+  },
+  {
+    "wilayah_id": "17405",
+    "name": "OGAN KOMERING ULU",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "17570",
+    "name": "OGAN KOMERING ILIR",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "17895",
+    "name": "MUARA ENIM",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "18244",
+    "name": "LAHAT",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "18643",
+    "name": "MUSI RAWAS",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "18942",
+    "name": "MUSI BANYUASIN",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "19172",
+    "name": "BANYUASIN",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "19492",
+    "name": "OGAN KOMERING ULU TIMUR",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "19808",
+    "name": "OGAN KOMERING ULU SELATAN",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "20087",
+    "name": "OGAN ILIR",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "20345",
+    "name": "EMPAT LAWANG",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "20512",
+    "name": "KOTA PALEMBANG",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "20636",
+    "name": "KOTA PAGAR ALAM",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "20677",
+    "name": "KOTA LUBUKLINGGAU",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "20758",
+    "name": "KOTA PRABUMULIH",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "20803",
+    "name": "BENGKULU TENGAH",
+    "parent": "20802"
+  },
+  {
+    "wilayah_id": "20923",
+    "name": "BENGKULU SELATAN",
+    "parent": "20802"
+  },
+  {
+    "wilayah_id": "21093",
+    "name": "REJANG LEBONG",
+    "parent": "20802"
+  },
+  {
+    "wilayah_id": "21265",
+    "name": "BENGKULU UTARA",
+    "parent": "20802"
+  },
+  {
+    "wilayah_id": "21492",
+    "name": "KAUR",
+    "parent": "20802"
+  },
+  {
+    "wilayah_id": "21702",
+    "name": "SELUMA",
+    "parent": "20802"
+  },
+  {
+    "wilayah_id": "21885",
+    "name": "MUKOMUKO",
+    "parent": "20802"
+  },
+  {
+    "wilayah_id": "22052",
+    "name": "LEBONG",
+    "parent": "20802"
+  },
+  {
+    "wilayah_id": "22135",
+    "name": "KEPAHIANG",
+    "parent": "20802"
+  },
+  {
+    "wilayah_id": "22252",
+    "name": "KOTA BENGKULU",
+    "parent": "20802"
+  },
+  {
+    "wilayah_id": "22329",
+    "name": "PRINGSEWU",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "22439",
+    "name": "MESUJI",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "22522",
+    "name": "TULANG BAWANG BARAT",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "22605",
+    "name": "LAMPUNG SELATAN",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "22875",
+    "name": "LAMPUNG TENGAH",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "23189",
+    "name": "LAMPUNG UTARA",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "23460",
+    "name": "LAMPUNG BARAT",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "23737",
+    "name": "TULANG BAWANG",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "23903",
+    "name": "TANGGAMUS",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "24202",
+    "name": "LAMPUNG TIMUR",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "24484",
+    "name": "WAY KANAN",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "24709",
+    "name": "KOTA BANDAR LAMPUNG",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "24822",
+    "name": "KOTA METRO",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "24850",
+    "name": "PESAWARAN",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "24994",
+    "name": "BANGKA",
+    "parent": "24993"
+  },
+  {
+    "wilayah_id": "25072",
+    "name": "BELITUNG",
+    "parent": "24993"
+  },
+  {
+    "wilayah_id": "25120",
+    "name": "BANGKA SELATAN",
+    "parent": "24993"
+  },
+  {
+    "wilayah_id": "25181",
+    "name": "BANGKA TENGAH",
+    "parent": "24993"
+  },
+  {
+    "wilayah_id": "25245",
+    "name": "BANGKA BARAT",
+    "parent": "24993"
+  },
+  {
+    "wilayah_id": "25316",
+    "name": "BELITUNG TIMUR",
+    "parent": "24993"
+  },
+  {
+    "wilayah_id": "25363",
+    "name": "KOTA PANGKALPINANG",
+    "parent": "24993"
+  },
+  {
+    "wilayah_id": "25406",
+    "name": "KOTA TANJUNGPINANG",
+    "parent": "25405"
+  },
+  {
+    "wilayah_id": "25429",
+    "name": "KEPULAUAN ANAMBAS",
+    "parent": "25405"
+  },
+  {
+    "wilayah_id": "25471",
+    "name": "BINTAN",
+    "parent": "25405"
+  },
+  {
+    "wilayah_id": "25533",
+    "name": "KARIMUN",
+    "parent": "25405"
+  },
+  {
+    "wilayah_id": "25597",
+    "name": "NATUNA",
+    "parent": "25405"
+  },
+  {
+    "wilayah_id": "25683",
+    "name": "LINGGA",
+    "parent": "25405"
+  },
+  {
+    "wilayah_id": "25746",
+    "name": "KOTA BATAM",
+    "parent": "25405"
+  },
+  {
+    "wilayah_id": "25824",
+    "name": "KEPULAUAN SERIBU",
+    "parent": "25823"
+  },
+  {
+    "wilayah_id": "25833",
+    "name": "JAKARTA PUSAT",
+    "parent": "25823"
+  },
+  {
+    "wilayah_id": "25886",
+    "name": "JAKARTA UTARA",
+    "parent": "25823"
+  },
+  {
+    "wilayah_id": "25924",
+    "name": "JAKARTA BARAT",
+    "parent": "25823"
+  },
+  {
+    "wilayah_id": "25989",
+    "name": "JAKARTA SELATAN",
+    "parent": "25823"
+  },
+  {
+    "wilayah_id": "26065",
+    "name": "JAKARTA TIMUR",
+    "parent": "25823"
+  },
+  {
+    "wilayah_id": "26142",
+    "name": "BOGOR",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "26611",
+    "name": "SUKABUMI",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "27026",
+    "name": "CIANJUR",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "27407",
+    "name": "BANDUNG",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "27714",
+    "name": "GARUT",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "28182",
+    "name": "TASIKMALAYA",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "28573",
+    "name": "CIAMIS",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "28960",
+    "name": "KUNINGAN",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "29369",
+    "name": "CIREBON",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "29834",
+    "name": "MAJALENGKA",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "30197",
+    "name": "SUMEDANG",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "30503",
+    "name": "INDRAMAYU",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "30851",
+    "name": "SUBANG",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "31135",
+    "name": "PURWAKARTA",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "31345",
+    "name": "KARAWANG",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "31685",
+    "name": "BEKASI",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "31896",
+    "name": "BANDUNG BARAT",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "32077",
+    "name": "KOTA BOGOR",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "32152",
+    "name": "KOTA SUKABUMI",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "32193",
+    "name": "KOTA BANDUNG",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "32375",
+    "name": "KOTA CIREBON",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "32403",
+    "name": "KOTA BEKASI",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "32472",
+    "name": "KOTA DEPOK",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "32547",
+    "name": "KOTA CIMAHI",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "32566",
+    "name": "KOTA TASIKMALAYA",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "32646",
+    "name": "KOTA BANJAR",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "32677",
+    "name": "CILACAP",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "32986",
+    "name": "BANYUMAS",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "33345",
+    "name": "PURBALINGGA",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "33603",
+    "name": "BANJARNEGARA",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "33902",
+    "name": "KEBUMEN",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "34389",
+    "name": "PURWOREJO",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "34900",
+    "name": "WONOSOBO",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "35181",
+    "name": "MAGELANG",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "35575",
+    "name": "BOYOLALI",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "35862",
+    "name": "KLATEN",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "36290",
+    "name": "SUKOHARJO",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "36470",
+    "name": "WONOGIRI",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "36790",
+    "name": "KARANGANYAR",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "36985",
+    "name": "SRAGEN",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "37214",
+    "name": "GROBOGAN",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "37514",
+    "name": "BLORA",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "37826",
+    "name": "REMBANG",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "38136",
+    "name": "PATI",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "38564",
+    "name": "KUDUS",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "38706",
+    "name": "JEPARA",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "38917",
+    "name": "DEMAK",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "39181",
+    "name": "SEMARANG",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "39436",
+    "name": "TEMANGGUNG",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "39746",
+    "name": "KENDAL",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "40053",
+    "name": "BATANG",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "40317",
+    "name": "PEKALONGAN",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "40622",
+    "name": "PEMALANG",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "40859",
+    "name": "TEGAL",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "41165",
+    "name": "BREBES",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "41480",
+    "name": "KOTA MAGELANG",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "41501",
+    "name": "KOTA SURAKARTA",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "41558",
+    "name": "KOTA SALATIGA",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "41585",
+    "name": "KOTA SEMARANG",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "41779",
+    "name": "KOTA PEKALONGAN",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "41831",
+    "name": "KOTA TEGAL",
+    "parent": "32676"
+  },
+  {
+    "wilayah_id": "41864",
+    "name": "KULON PROGO",
+    "parent": "41863"
+  },
+  {
+    "wilayah_id": "41965",
+    "name": "BANTUL",
+    "parent": "41863"
+  },
+  {
+    "wilayah_id": "42058",
+    "name": "GUNUNGKIDUL",
+    "parent": "41863"
+  },
+  {
+    "wilayah_id": "42221",
+    "name": "SLEMAN",
+    "parent": "41863"
+  },
+  {
+    "wilayah_id": "42325",
+    "name": "KOTA YOGYAKARTA",
+    "parent": "41863"
+  },
+  {
+    "wilayah_id": "42386",
+    "name": "PACITAN",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "42570",
+    "name": "PONOROGO",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "42897",
+    "name": "TRENGGALEK",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "43069",
+    "name": "TULUNGAGUNG",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "43360",
+    "name": "BLITAR",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "43630",
+    "name": "KEDIRI",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "43993",
+    "name": "MALANG",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "44417",
+    "name": "LUMAJANG",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "44643",
+    "name": "JEMBER",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "44923",
+    "name": "BANYUWANGI",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "45165",
+    "name": "BONDOWOSO",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "45407",
+    "name": "SITUBONDO",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "45561",
+    "name": "PROBOLINGGO",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "45916",
+    "name": "PASURUAN",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "46306",
+    "name": "SIDOARJO",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "46678",
+    "name": "MOJOKERTO",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "47001",
+    "name": "JOMBANG",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "47329",
+    "name": "NGANJUK",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "47634",
+    "name": "MADIUN",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "47856",
+    "name": "MAGETAN",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "48110",
+    "name": "NGAWI",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "48347",
+    "name": "BOJONEGORO",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "48805",
+    "name": "TUBAN",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "49154",
+    "name": "LAMONGAN",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "49656",
+    "name": "GRESIK",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "50031",
+    "name": "BANGKALAN",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "50331",
+    "name": "SAMPANG",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "50532",
+    "name": "PAMEKASAN",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "50735",
+    "name": "SUMENEP",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "51095",
+    "name": "KOTA KEDIRI",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "51145",
+    "name": "KOTA BLITAR",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "51170",
+    "name": "KOTA MALANG",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "51233",
+    "name": "KOTA PROBOLINGGO",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "51268",
+    "name": "KOTA PASURUAN",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "51306",
+    "name": "KOTA MOJOKERTO",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "51327",
+    "name": "KOTA MADIUN",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "51358",
+    "name": "KOTA SURABAYA",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "51550",
+    "name": "KOTA BATU",
+    "parent": "42385"
+  },
+  {
+    "wilayah_id": "51579",
+    "name": "PANDEGLANG",
+    "parent": "51578"
+  },
+  {
+    "wilayah_id": "51913",
+    "name": "LEBAK",
+    "parent": "51578"
+  },
+  {
+    "wilayah_id": "52287",
+    "name": "TANGERANG",
+    "parent": "51578"
+  },
+  {
+    "wilayah_id": "52593",
+    "name": "SERANG",
+    "parent": "51578"
+  },
+  {
+    "wilayah_id": "52936",
+    "name": "KOTA TANGERANG",
+    "parent": "51578"
+  },
+  {
+    "wilayah_id": "53054",
+    "name": "KOTA CILEGON",
+    "parent": "51578"
+  },
+  {
+    "wilayah_id": "53106",
+    "name": "KOTA SERANG",
+    "parent": "51578"
+  },
+  {
+    "wilayah_id": "53179",
+    "name": "KOTA TANGERANG SELATAN",
+    "parent": "51578"
+  },
+  {
+    "wilayah_id": "53242",
+    "name": "JEMBRANA",
+    "parent": "53241"
+  },
+  {
+    "wilayah_id": "53299",
+    "name": "TABANAN",
+    "parent": "53241"
+  },
+  {
+    "wilayah_id": "53439",
+    "name": "BADUNG",
+    "parent": "53241"
+  },
+  {
+    "wilayah_id": "53508",
+    "name": "GIANYAR",
+    "parent": "53241"
+  },
+  {
+    "wilayah_id": "53586",
+    "name": "KLUNGKUNG",
+    "parent": "53241"
+  },
+  {
+    "wilayah_id": "53650",
+    "name": "BANGLI",
+    "parent": "53241"
+  },
+  {
+    "wilayah_id": "53727",
+    "name": "KARANGASEM",
+    "parent": "53241"
+  },
+  {
+    "wilayah_id": "53814",
+    "name": "BULELENG",
+    "parent": "53241"
+  },
+  {
+    "wilayah_id": "53972",
+    "name": "KOTA DENPASAR",
+    "parent": "53241"
+  },
+  {
+    "wilayah_id": "54021",
+    "name": "LOMBOK BARAT",
+    "parent": "54020"
+  },
+  {
+    "wilayah_id": "54123",
+    "name": "LOMBOK TENGAH",
+    "parent": "54020"
+  },
+  {
+    "wilayah_id": "54260",
+    "name": "LOMBOK TIMUR",
+    "parent": "54020"
+  },
+  {
+    "wilayah_id": "54400",
+    "name": "SUMBAWA",
+    "parent": "54020"
+  },
+  {
+    "wilayah_id": "54590",
+    "name": "DOMPU",
+    "parent": "54020"
+  },
+  {
+    "wilayah_id": "54666",
+    "name": "BIMA",
+    "parent": "54020"
+  },
+  {
+    "wilayah_id": "54853",
+    "name": "SUMBAWA BARAT",
+    "parent": "54020"
+  },
+  {
+    "wilayah_id": "54925",
+    "name": "KOTA MATARAM",
+    "parent": "54020"
+  },
+  {
+    "wilayah_id": "54982",
+    "name": "KOTA BIMA",
+    "parent": "54020"
+  },
+  {
+    "wilayah_id": "55026",
+    "name": "LOMBOK UTARA",
+    "parent": "54020"
+  },
+  {
+    "wilayah_id": "55066",
+    "name": "KUPANG",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "55347",
+    "name": "TIMOR TENGAH SELATAN",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "55620",
+    "name": "TIMOR TENGAH UTARA",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "55819",
+    "name": "BELU",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "56051",
+    "name": "ALOR",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "56244",
+    "name": "FLORES TIMUR",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "56489",
+    "name": "SIKKA",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "56671",
+    "name": "ENDE",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "56904",
+    "name": "NGADA",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "57008",
+    "name": "MANGGARAI",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "57167",
+    "name": "SUMBA TIMUR",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "57346",
+    "name": "SUMBA BARAT",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "57406",
+    "name": "LEMBATA",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "57560",
+    "name": "ROTE NDAO",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "57649",
+    "name": "MANGGARAI BARAT",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "57778",
+    "name": "NAGEKEO",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "57886",
+    "name": "SUMBA TENGAH",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "57935",
+    "name": "SUMBA BARAT DAYA",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "58040",
+    "name": "KOTA KUPANG",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "58098",
+    "name": "MANGGARAI TIMUR",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "58219",
+    "name": "SABU RAIJUA",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "58286",
+    "name": "SAMBAS",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "58490",
+    "name": "MEMPAWAH",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "58567",
+    "name": "SANGGAU",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "58749",
+    "name": "KETAPANG",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "59018",
+    "name": "SINTANG",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "59320",
+    "name": "KAPUAS HULU",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "59557",
+    "name": "BENGKAYANG",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "59699",
+    "name": "LANDAK",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "59869",
+    "name": "SEKADAU",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "59953",
+    "name": "MELAWI",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "60134",
+    "name": "KAYONG UTARA",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "60183",
+    "name": "KOTA PONTIANAK",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "60223",
+    "name": "KOTA SINGKAWANG",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "60255",
+    "name": "KUBU RAYA",
+    "parent": "58285"
+  },
+  {
+    "wilayah_id": "60372",
+    "name": "KOTAWARINGIN BARAT",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "60468",
+    "name": "KOTAWARINGIN TIMUR",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "60653",
+    "name": "KAPUAS",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "60867",
+    "name": "BARITO SELATAN",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "60967",
+    "name": "BARITO UTARA",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "61077",
+    "name": "KATINGAN",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "61251",
+    "name": "SERUYAN",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "61362",
+    "name": "SUKAMARA",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "61400",
+    "name": "LAMANDAU",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "61492",
+    "name": "GUNUNG MAS",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "61614",
+    "name": "PULANG PISAU",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "61711",
+    "name": "MURUNG RAYA",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "61846",
+    "name": "BARITO TIMUR",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "61929",
+    "name": "KOTA PALANGKARAYA",
+    "parent": "60371"
+  },
+  {
+    "wilayah_id": "61966",
+    "name": "TANAH LAUT",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "62112",
+    "name": "KOTABARU",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "62333",
+    "name": "BANJAR",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "62643",
+    "name": "BARITO KUALA",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "62861",
+    "name": "TAPIN",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "63007",
+    "name": "HULU SUNGAI SELATAN",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "63167",
+    "name": "HULU SUNGAI TENGAH",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "63348",
+    "name": "HULU SUNGAI UTARA",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "63578",
+    "name": "TABALONG",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "63722",
+    "name": "TANAH BUMBU",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "63866",
+    "name": "BALANGAN",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "64027",
+    "name": "KOTA BANJARMASIN",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "64085",
+    "name": "KOTA BANJARBARU",
+    "parent": "61965"
+  },
+  {
+    "wilayah_id": "64112",
+    "name": "PASER",
+    "parent": "64111"
+  },
+  {
+    "wilayah_id": "64248",
+    "name": "KUTAI KARTANEGARA",
+    "parent": "64111"
+  },
+  {
+    "wilayah_id": "64496",
+    "name": "BERAU",
+    "parent": "64111"
+  },
+  {
+    "wilayah_id": "64617",
+    "name": "BULUNGAN",
+    "parent": "928068"
+  },
+  {
+    "wilayah_id": "64709",
+    "name": "NUNUKAN",
+    "parent": "928068"
+  },
+  {
+    "wilayah_id": "64949",
+    "name": "MALINAU",
+    "parent": "928068"
+  },
+  {
+    "wilayah_id": "65069",
+    "name": "KUTAI BARAT",
+    "parent": "64111"
+  },
+  {
+    "wilayah_id": "65315",
+    "name": "KUTAI TIMUR",
+    "parent": "64111"
+  },
+  {
+    "wilayah_id": "65469",
+    "name": "PENAJAM PASER UTARA",
+    "parent": "64111"
+  },
+  {
+    "wilayah_id": "65528",
+    "name": "KOTA BALIKPAPAN",
+    "parent": "64111"
+  },
+  {
+    "wilayah_id": "65567",
+    "name": "KOTA SAMARINDA",
+    "parent": "64111"
+  },
+  {
+    "wilayah_id": "65631",
+    "name": "KOTA TARAKAN",
+    "parent": "928068"
+  },
+  {
+    "wilayah_id": "65656",
+    "name": "KOTA BONTANG",
+    "parent": "64111"
+  },
+  {
+    "wilayah_id": "65675",
+    "name": "TANA TIDUNG",
+    "parent": "928068"
+  },
+  {
+    "wilayah_id": "65703",
+    "name": "BOLAANG MONGONDOW TIMUR",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "65760",
+    "name": "BOLAANG MONGONDOW SELATAN",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "65822",
+    "name": "BOLAANG MONGONDOW",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "65974",
+    "name": "MINAHASA",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "66188",
+    "name": "KEPULAUAN SANGIHE",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "66371",
+    "name": "KEPULAUAN TALAUD",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "66544",
+    "name": "MINAHASA SELATAN",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "66718",
+    "name": "MINAHASA UTARA",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "66853",
+    "name": "MINAHASA TENGGARA",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "66936",
+    "name": "BOLAANG MONGONDOW UTARA",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "67035",
+    "name": "KEP. SIAU TAGULANDANG BIARO",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "67130",
+    "name": "KOTA MANADO",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "67227",
+    "name": "KOTA BITUNG",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "67305",
+    "name": "KOTA TOMOHON",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "67355",
+    "name": "KOTA KOTAMOBAGU",
+    "parent": "65702"
+  },
+  {
+    "wilayah_id": "67394",
+    "name": "SIGI",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "67558",
+    "name": "BANGGAI",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "67866",
+    "name": "POSO",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "68041",
+    "name": "DONGGALA",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "68206",
+    "name": "TOLITOLI",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "68309",
+    "name": "BUOL",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "68428",
+    "name": "MOROWALI",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "68681",
+    "name": "BANGGAI KEPULAUAN",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "68887",
+    "name": "PARIGI MOUTONG",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "69089",
+    "name": "TOJO UNA-UNA",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "69220",
+    "name": "KOTA PALU",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "69269",
+    "name": "TORAJA UTARA",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "69442",
+    "name": "KEPULAUAN SELAYAR",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "69531",
+    "name": "BULUKUMBA",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "69668",
+    "name": "BANTAENG",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "69744",
+    "name": "JENEPONTO",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "69869",
+    "name": "TAKALAR",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "69962",
+    "name": "GOWA",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "70149",
+    "name": "SINJAI",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "70239",
+    "name": "BONE",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "70639",
+    "name": "MAROS",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "70757",
+    "name": "PANGKAJENE DAN KEPULAUAN",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "70873",
+    "name": "BARRU",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "70935",
+    "name": "SOPPENG",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "71014",
+    "name": "WAJO",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "71209",
+    "name": "SIDENRENG RAPPANG",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "71327",
+    "name": "PINRANG",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "71437",
+    "name": "ENREKANG",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "71579",
+    "name": "LUWU",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "71828",
+    "name": "TANA TORAJA",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "72007",
+    "name": "LUWU UTARA",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "72190",
+    "name": "LUWU TIMUR",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "72309",
+    "name": "KOTA MAKASSAR",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "72467",
+    "name": "KOTA PARE PARE",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "72493",
+    "name": "KOTA PALOPO",
+    "parent": "69268"
+  },
+  {
+    "wilayah_id": "72552",
+    "name": "KOLAKA",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "72786",
+    "name": "KONAWE",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "73150",
+    "name": "MUNA",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "73420",
+    "name": "BUTON",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "73650",
+    "name": "KONAWE SELATAN",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "74018",
+    "name": "BOMBANA",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "74179",
+    "name": "WAKATOBI",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "74288",
+    "name": "KOLAKA UTARA",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "74437",
+    "name": "KONAWE UTARA",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "74525",
+    "name": "BUTON UTARA",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "74590",
+    "name": "KOTA KENDARI",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "74665",
+    "name": "KOTA BAU BAU",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "74717",
+    "name": "GORONTALO",
+    "parent": "74716"
+  },
+  {
+    "wilayah_id": "74941",
+    "name": "BOALEMO",
+    "parent": "74716"
+  },
+  {
+    "wilayah_id": "75031",
+    "name": "BONE BOLANGO",
+    "parent": "74716"
+  },
+  {
+    "wilayah_id": "75183",
+    "name": "PAHUWATO",
+    "parent": "74716"
+  },
+  {
+    "wilayah_id": "75301",
+    "name": "GORONTALO UTARA",
+    "parent": "74716"
+  },
+  {
+    "wilayah_id": "75365",
+    "name": "KOTA GORONTALO",
+    "parent": "74716"
+  },
+  {
+    "wilayah_id": "75426",
+    "name": "PASANGKAYU",
+    "parent": "75425"
+  },
+  {
+    "wilayah_id": "75502",
+    "name": "MAMUJU",
+    "parent": "75425"
+  },
+  {
+    "wilayah_id": "75670",
+    "name": "MAMASA",
+    "parent": "75425"
+  },
+  {
+    "wilayah_id": "75863",
+    "name": "POLEWALI MANDAR",
+    "parent": "75425"
+  },
+  {
+    "wilayah_id": "76047",
+    "name": "MAJENE",
+    "parent": "75425"
+  },
+  {
+    "wilayah_id": "76097",
+    "name": "MALUKU BARAT DAYA",
+    "parent": "76096"
+  },
+  {
+    "wilayah_id": "76223",
+    "name": "BURU SELATAN",
+    "parent": "76096"
+  },
+  {
+    "wilayah_id": "76284",
+    "name": "MALUKU TENGAH",
+    "parent": "76096"
+  },
+  {
+    "wilayah_id": "76470",
+    "name": "MALUKU TENGGARA",
+    "parent": "76096"
+  },
+  {
+    "wilayah_id": "76568",
+    "name": "MALUKU TENGGARA BARAT",
+    "parent": "76096"
+  },
+  {
+    "wilayah_id": "76651",
+    "name": "BURU",
+    "parent": "76096"
+  },
+  {
+    "wilayah_id": "76708",
+    "name": "SERAM BAGIAN TIMUR",
+    "parent": "76096"
+  },
+  {
+    "wilayah_id": "76771",
+    "name": "SERAM BAGIAN BARAT",
+    "parent": "76096"
+  },
+  {
+    "wilayah_id": "76868",
+    "name": "KEPULAUAN ARU",
+    "parent": "76096"
+  },
+  {
+    "wilayah_id": "76995",
+    "name": "KOTA AMBON",
+    "parent": "76096"
+  },
+  {
+    "wilayah_id": "77051",
+    "name": "KOTA TUAL",
+    "parent": "76096"
+  },
+  {
+    "wilayah_id": "77086",
+    "name": "PULAU MOROTAI",
+    "parent": "77085"
+  },
+  {
+    "wilayah_id": "77155",
+    "name": "HALMAHERA BARAT",
+    "parent": "77085"
+  },
+  {
+    "wilayah_id": "77311",
+    "name": "HALMAHERA TENGAH",
+    "parent": "77085"
+  },
+  {
+    "wilayah_id": "77364",
+    "name": "HALMAHERA UTARA",
+    "parent": "77085"
+  },
+  {
+    "wilayah_id": "77578",
+    "name": "HALMAHERA SELATAN",
+    "parent": "77085"
+  },
+  {
+    "wilayah_id": "77858",
+    "name": "KEPULAUAN SULA",
+    "parent": "77085"
+  },
+  {
+    "wilayah_id": "77956",
+    "name": "HALMAHERA TIMUR",
+    "parent": "77085"
+  },
+  {
+    "wilayah_id": "78040",
+    "name": "KOTA TERNATE",
+    "parent": "77085"
+  },
+  {
+    "wilayah_id": "78122",
+    "name": "KOTA TIDORE KEPULAUAN",
+    "parent": "77085"
+  },
+  {
+    "wilayah_id": "78204",
+    "name": "INTAN JAYA",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "78289",
+    "name": "DEIYAI",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "78324",
+    "name": "TOLIKARA",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "78862",
+    "name": "WAROPEN",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "78927",
+    "name": "BOVEN DIGOEL",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "79019",
+    "name": "MAPPI",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "79163",
+    "name": "ASMAT",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "79310",
+    "name": "SUPIORI",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "79354",
+    "name": "MAMBERAMO RAYA",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "79421",
+    "name": "KOTA JAYAPURA",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "79466",
+    "name": "MAMBERAMO TENGAH",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "79531",
+    "name": "YALIMO",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "79564",
+    "name": "LANNY JAYA",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "79629",
+    "name": "NDUGA",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "79663",
+    "name": "PUNCAK",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "79752",
+    "name": "DOGIYAI",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "79826",
+    "name": "MERAUKE",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "80015",
+    "name": "JAYAWIJAYA",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "80144",
+    "name": "JAYAPURA",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "80309",
+    "name": "NABIRE",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "80402",
+    "name": "KEPULAUAN YAPEN",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "80526",
+    "name": "BIAK NUMFOR",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "80724",
+    "name": "PUNCAK JAYA",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "80851",
+    "name": "PANIAI",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "81007",
+    "name": "MIMIKA",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "81104",
+    "name": "SARMI",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "81192",
+    "name": "KEEROM",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "81261",
+    "name": "PEGUNUNGAN BINTANG",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "81357",
+    "name": "YAHUKIMO",
+    "parent": "78203"
+  },
+  {
+    "wilayah_id": "81878",
+    "name": "MAYBRAT",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "81992",
+    "name": "TAMBRAUW",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "82022",
+    "name": "SORONG",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "82154",
+    "name": "MANOKWARI",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "82605",
+    "name": "FAKFAK",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "82724",
+    "name": "SORONG SELATAN",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "82850",
+    "name": "RAJA AMPAT",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "82965",
+    "name": "TELUK BINTUNI",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "83107",
+    "name": "TELUK WONDAMA",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "83194",
+    "name": "KAIMANA",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "83289",
+    "name": "KOTA SORONG",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "927964",
+    "name": "PANGANDARAN",
+    "parent": "26141"
+  },
+  {
+    "wilayah_id": "928069",
+    "name": "PENUKAL ABAB LEMATANG ILIR",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "928070",
+    "name": "MUSI RAWAS UTARA",
+    "parent": "17404"
+  },
+  {
+    "wilayah_id": "928071",
+    "name": "PESISIR BARAT",
+    "parent": "22328"
+  },
+  {
+    "wilayah_id": "928072",
+    "name": "MALAKA",
+    "parent": "55065"
+  },
+  {
+    "wilayah_id": "928073",
+    "name": "MAHAKAM ULU",
+    "parent": "64111"
+  },
+  {
+    "wilayah_id": "928074",
+    "name": "BANGGAI LAUT",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "928075",
+    "name": "MOROWALI UTARA",
+    "parent": "67393"
+  },
+  {
+    "wilayah_id": "928076",
+    "name": "KOLAKA TIMUR",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "928077",
+    "name": "KONAWE KEPULAUAN",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "928078",
+    "name": "MAMUJU TENGAH",
+    "parent": "75425"
+  },
+  {
+    "wilayah_id": "928079",
+    "name": "PULAU TALIABU",
+    "parent": "77085"
+  },
+  {
+    "wilayah_id": "928080",
+    "name": "MANOKWARI SELATAN",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "928081",
+    "name": "PEGUNUNGAN ARFAK",
+    "parent": "81877"
+  },
+  {
+    "wilayah_id": "928082",
+    "name": "MUNA BARAT",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "928083",
+    "name": "BUTON TENGAH",
+    "parent": "72551"
+  },
+  {
+    "wilayah_id": "928084",
+    "name": "BUTON SELATAN",
+    "parent": "72551"
+  }
+]
