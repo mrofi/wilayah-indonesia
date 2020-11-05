@@ -1,0 +1,172 @@
+[
+  {
+    "wilayah_id": "1",
+    "name": "ACEH",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "6728",
+    "name": "SUMATERA UTARA",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "12920",
+    "name": "SUMATERA BARAT",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "14086",
+    "name": "RIAU",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "15885",
+    "name": "JAMBI",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "17404",
+    "name": "SUMATERA SELATAN",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "20802",
+    "name": "BENGKULU",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "22328",
+    "name": "LAMPUNG",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "24993",
+    "name": "KEPULAUAN BANGKA BELITUNG",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "25405",
+    "name": "KEPULAUAN RIAU",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "25823",
+    "name": "DKI JAKARTA",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "26141",
+    "name": "JAWA BARAT",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "32676",
+    "name": "JAWA TENGAH",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "41863",
+    "name": "DAERAH ISTIMEWA YOGYAKARTA",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "42385",
+    "name": "JAWA TIMUR",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "51578",
+    "name": "BANTEN",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "53241",
+    "name": "BALI",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "54020",
+    "name": "NUSA TENGGARA BARAT",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "55065",
+    "name": "NUSA TENGGARA TIMUR",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "58285",
+    "name": "KALIMANTAN BARAT",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "60371",
+    "name": "KALIMANTAN TENGAH",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "61965",
+    "name": "KALIMANTAN SELATAN",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "64111",
+    "name": "KALIMANTAN TIMUR",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "65702",
+    "name": "SULAWESI UTARA",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "67393",
+    "name": "SULAWESI TENGAH",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "69268",
+    "name": "SULAWESI SELATAN",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "72551",
+    "name": "SULAWESI TENGGARA",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "74716",
+    "name": "GORONTALO",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "75425",
+    "name": "SULAWESI BARAT",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "76096",
+    "name": "MALUKU",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "77085",
+    "name": "MALUKU UTARA",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "78203",
+    "name": "PAPUA",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "81877",
+    "name": "PAPUA BARAT",
+    "parent": "0"
+  },
+  {
+    "wilayah_id": "928068",
+    "name": "KALIMANTAN UTARA",
+    "parent": "0"
+  }
+]
